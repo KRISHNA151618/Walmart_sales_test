@@ -1,5 +1,5 @@
-<img width="846" height="130" alt="image" src="https://github.com/user-attachments/assets/6a3926d1-3ba7-499d-a584-284ccd467248" />Walmart Data Analysis: End-to-End SQL + Python Project P-9
-<p> Project Overview </p>
+Walmart Data Analysis: End-to-End SQL + Python Project 
+<p>Project Overview</p>
 
 
 <img width="1598" height="753" alt="image" src="https://github.com/user-attachments/assets/91498894-21b5-4d60-960d-4587a432f324" />
